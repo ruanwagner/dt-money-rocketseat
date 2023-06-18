@@ -14,7 +14,7 @@
   </a>
 
 <h4 align="center"> 
-	✌  DT Money ♻️ Concluído 🚀 
+	✌  DT Money  Concluído 🚀 
 </h4>
 
 <p align="center">
