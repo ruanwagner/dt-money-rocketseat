@@ -67,10 +67,10 @@ Este projeto é divido em duas partes:
 ```bash
 
 # clone this repository
-$ git clone git@github.com:username/repositoryprojectname.git
+$ git clone git@github.com:ruanwagner/dt-money-rocketseat.git
 
 # open the directory of the project in a terminal
-$ cd repositoryprojectname
+$ cd dt-money-rocketseat
 
 # install the dependecies
 $ npm install
@@ -109,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[zod](https://zod.dev/)**
 -   **[use-context-selector](https://github.com/dai-shi/use-context-selector)**
 
-> Veja o arquivo  [package.json](https://github.com/ruanwagner/dt-money-rocketseat/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/ruanwagner/dt-money-rocketseat/blob/master/package.json)
 
 #### **Utilitários**
 
